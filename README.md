@@ -3,7 +3,7 @@
 ## About me:
 
 My name is Michał, currently living in Poland (unfortunately). I am 15 years old (16 this summer).
-I am currently learning typescript and started some C++ but it's mostly easy exercises.
+I am learning typescript and started some C++ but it's mostly easy exercises.
 
 ## Projects: 
 I have a lot of private repos here, most of them are really incomplete but I plan on fixing and improving or replacing some.
