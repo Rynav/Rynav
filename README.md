@@ -2,7 +2,7 @@
 
 ## About me:
 
-My name is Michał, currently living in Poland (unfortunately). I am 15 years old (16 this summer).
+My name is Michał, currently living in Poland (unfortunately). I am 16 years old.
 I am learning typescript and started some C++ but it's mostly easy exercises.
 
 ## Projects: 
